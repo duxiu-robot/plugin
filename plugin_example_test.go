@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/techxmind/config"
-	"github.com/techxmind/plugin"
+	"github.com/duxiu-robot/config"
+	"github.com/duxiu-robot/plugin"
 )
 
 func Example() {
